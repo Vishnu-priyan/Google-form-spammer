@@ -2,13 +2,13 @@
 A python script Google forms spanner that spams as many times you want.
 
 ##Requirements
->You need **mechanize 0.2.5**
+-You need **mechanize 0.2.5**
 Install using the following command:
 ```
 pip install mechanize==0.2.5
 ```
-<
-###To Run
+
+##To Run
 
 ```
 python googspam.py 'url' NumberOfTimes
